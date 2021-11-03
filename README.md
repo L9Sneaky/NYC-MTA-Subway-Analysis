@@ -1,4 +1,4 @@
-# Udacity-Project-1
+# NYC MTA Subway Analysis
 https://medium.com/@galghanim1999/nyc-mta-subway-analysis-project-6bf76d243d95
 ### Abstract
 
