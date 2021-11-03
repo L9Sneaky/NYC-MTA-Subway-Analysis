@@ -36,16 +36,16 @@ After gathering the necessary data from New York City Metropolitan Transportatio
 
 ### Results
 
-![alt text](https://github.com/L9Sneaky/Udacity-Project-1/blob/master/plot2?raw=true)
+![alt text](https://github.com/L9Sneaky/Udacity-Project-1/blob/master/plot2.png?raw=true)
 
 From this graph, we can see that Orchard Beach is the least commonly used Station. and from this, we check what days do people use this station.
 
-![alt text](https://github.com/L9Sneaky/Udacity-Project-1/blob/master/plot1?raw=true)
+![alt text](https://github.com/L9Sneaky/Udacity-Project-1/blob/master/plot1.png?raw=true)
 
 From this, we can see that workdays are the least commonly used since the station is close to the beach.
 And we check on average traffic on that station with respect to time.
 
-![alt text](https://github.com/L9Sneaky/Udacity-Project-1/blob/master/plot3?raw=true)
+![alt text](https://github.com/L9Sneaky/Udacity-Project-1/blob/master/plot3.png?raw=true)
 
 We see that from 4 am to 8 am it's practically not used at all so we can shut down the station at that time during the workdays and that would reduce the electricity bill.
 
