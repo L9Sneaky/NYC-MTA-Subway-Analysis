@@ -50,5 +50,4 @@ We see that from 4 am to 8 am it's practically not used at all so we can shut do
 - Numpy & Pandas for data cleaning and manipulation.
 - Matplotlib, seaborn & plotly for plotting.
 
-### Acknowledgements 
-I would like to thank MR.Haroon for his great teaching and the team of udacity for their feedback and support 
+
